@@ -1,0 +1,11 @@
+{
+  "web_apps": [
+    {
+      "manifest": "https://splitpay.pro/manifest.json",
+      "details": {
+        "paths": ["*"],
+        "exclude_paths": []
+      }
+    }
+  ]
+}
